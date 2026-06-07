@@ -1,0 +1,6 @@
+order_id,customer,region,amount,status
+A1001,Taiyuan Hengxin,Shanxi,1280,paid
+A1002,Jinzhong Ruida,Shanxi,860,pending
+A1003,Beijing Yunhai,Beijing,2450,paid
+A1002,Jinzhong Ruida,Shanxi,860,pending
+A1004,Shanghai Qiming,Shanghai,,paid
